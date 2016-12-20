@@ -1,0 +1,2 @@
+# westmontphoto
+Personal photography website
